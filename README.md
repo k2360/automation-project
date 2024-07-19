@@ -1,3 +1,3 @@
-### Projeto de Automação 
-- Automação do processo de cadastro de milhares de produtos no Sistema 
-usando Python para ser executado de forma diária e sob demanda.
+### Automation Project 
+- Automation of the registration process for thousands of products in the company's system
+using Python to run daily and on demand.
